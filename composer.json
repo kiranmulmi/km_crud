@@ -1,5 +1,5 @@
 {
-    "name": "km/km_crud",
+    "name": "mulmi/km_crud",
     "description": "Generic Crud Package",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
 	"autoload": {
 		"psr-4": {
-			"KM\\KMCrud\\": "src/"
+			"Mulmi\\KMCrud\\": "src/"
 		}
 	}
 }
